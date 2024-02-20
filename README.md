@@ -6,13 +6,13 @@ git clone https://github.com/kirill3466/testovoe-zadanie-uptrader.git
 ```
 Установить окружение, джанго
 ```
-  python -m venv venv
-  venv/Scripts/activate
-  pip install django
+python -m venv venv
+venv/Scripts/activate
+pip install django
 ```
 Переходим в директорию
 ```
-    cd uptrader_test_menu
+cd uptrader_test_menu
 ```
 Выполняем миграции
 ```
